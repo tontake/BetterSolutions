@@ -1,0 +1,14 @@
+This is a mobile app for wholesales and supermarkets.It help reduce queues by creating a self service check out system to the users.This is big advantage to the company's revenue and customer waiting peroid ,Therefore check it out
+
+Theo App Mobile App
+This is an android app tailored made for churches .It helps churches stay glued to church activities and improve member retention at the same time it act as a repository of christian resources for everyone .
+
+We provide supermarkets with the management that scalas with their business and can easily be customised to handle more functions like expenses,Profit and Loss statements, VAT statements ,Inventory planning and a vast more benefits.
+
+echo "# BetterSolutions" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/tontake/BetterSolutions.git
+git push -u origin main
